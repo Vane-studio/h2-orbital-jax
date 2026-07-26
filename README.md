@@ -5,6 +5,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![JAX](https://img.shields.io/badge/JAX-GPU-orange)
+
+
 ## 项目简介
 
 `H₂ Orbital JAX` 是一个连接量子化学、GPU 数值计算和科学可视化的实验项目。
