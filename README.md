@@ -1,6 +1,9 @@
 # H₂ Orbital JAX
 
+
 > 使用 JAX、LCAO 与 Marching Cubes 构造、验证并可视化氢分子的成键与反键分子轨道。
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 项目简介
 
