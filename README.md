@@ -205,8 +205,8 @@ c
 ```
 
 ---
-[成键轨道图片](img/2026-07-25 223001.png)
-[反键轨道图片](img/2026-07-25 223026.png)
+[成键轨道图片](https://github.com/Vane-studio/h2-orbital-jax/blob/main/img/2026-07-25%20223001.png)
+[反键轨道图片](https://github.com/Vane-studio/h2-orbital-jax/blob/main/img/2026-07-25%20223026.png)
 
 ## Notebook 结构
 
