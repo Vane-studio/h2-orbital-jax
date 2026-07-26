@@ -205,9 +205,14 @@ c
 ```
 
 ---
+```
+成键轨道图片：
 ![成键轨道图片](https://github.com/Vane-studio/h2-orbital-jax/blob/main/img/2026-07-25%20223001.png)
+```
+```
+反键轨道图片:
 ![反键轨道图片](https://github.com/Vane-studio/h2-orbital-jax/blob/main/img/2026-07-25%20223026.png)
-
+```
 ## Notebook 结构
 
 Notebook 按功能拆分为以下单元格：
